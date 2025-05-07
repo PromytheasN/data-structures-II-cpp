@@ -7,7 +7,7 @@ A self-balancing AVL Tree implementation with full support for insertion, deleti
 - `AVLTree.h` – AVL Tree class with balancing, traversal, and utility methods.
 - `TesterTemp.cpp` – Driver program to test tree operations and display results.
 
-## 🚀 Features
+## Features
 
 - AVL balancing (LL, LR, RR, RL rotations)
 - Element search (recursive)
